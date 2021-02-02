@@ -29,3 +29,14 @@
     text-align: center;
     
 }
+.mail-input{
+    margin-top: 10px;
+    margin-left: 90px;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 5px 15px 5px 15px;
+}
+.special-btn{
+    margin-top: 5px;
+    margin-left: 146px;
+}
